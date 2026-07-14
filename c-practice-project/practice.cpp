@@ -6,6 +6,7 @@ int main(void) {
 	scanf("%d", &a);
 
 	printf("%d\n", a);
+
 	printf("‚¨‚ß‚Å‚Æ‚¤");
 	printf("hello world");
 }
